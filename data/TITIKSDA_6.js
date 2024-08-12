@@ -1,0 +1,1 @@
+var json_TITIKSDA_6 = {"type":"FeatureCollection","name":"TITIKSDA_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","TITIK":"PERKEBUNAN KELAPA SAWIT"},"geometry":{"type":"Point","coordinates":[117.216019406488826,-0.879345452239723]}}]}
